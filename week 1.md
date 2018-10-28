@@ -2,9 +2,9 @@
 
 **( Timeline : 8<sup>th</sup> May'18 - 12<sup>th</sup> May'18, this week's shorter )**
  
-1. Bascis of SSH and SSH tunnelling,  SCP , SFTP ( how to connect to digital ocean/aws or any other VPSes )
+1. Basics of SSH and SSH tunnelling,  SCP , SFTP ( how to connect to digital ocean/aws or any other VPSes )
 
-2. Shell scripting , Automating as many tasks as possible.
+2. Shell scripting , automating as many tasks as possible.
 
 3. Proxy setting up using different environment variables , like 
 	* all_proxy
